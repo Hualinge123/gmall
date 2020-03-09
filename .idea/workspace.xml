@@ -2,169 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a11ae3c-bf39-44bf-861d-48915efbe008" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3771b492-0b74-47e3-b1c2-db21657ade8e.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fastdfs-client-java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsBaseAttrInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsBaseAttrValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsBaseCatalog1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsBaseCatalog2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsBaseCatalog3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsBaseSaleAttr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsProductImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsProductInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsProductSaleAttr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsProductSaleAttrValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsSkuAttrValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsSkuImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsSkuInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsSkuSaleAttrValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/UserMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/ManagerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/META-INF/gmall-api.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/atguigu/gmall/bean/PmsBaseAttrInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/atguigu/gmall/bean/PmsBaseAttrValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/atguigu/gmall/bean/PmsBaseCatalog1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/atguigu/gmall/bean/PmsBaseCatalog2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/atguigu/gmall/bean/PmsBaseCatalog3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/atguigu/gmall/bean/PmsBaseSaleAttr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/atguigu/gmall/bean/PmsProductImage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/atguigu/gmall/bean/PmsProductInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/atguigu/gmall/bean/PmsProductSaleAttr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/atguigu/gmall/bean/PmsProductSaleAttrValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/atguigu/gmall/bean/PmsSkuAttrValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/atguigu/gmall/bean/PmsSkuImage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/atguigu/gmall/bean/PmsSkuInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/atguigu/gmall/bean/PmsSkuSaleAttrValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/atguigu/gmall/bean/UserMessage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/atguigu/gmall/service/ManagerService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/atguigu/gmall/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/gmall-api-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-common-utils/gmall-common-utils.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-common-utils/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-common-utils/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-common-utils/src/main/java/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-common-utils/src/main/java/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-common-utils/target/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-common-utils/target/classes/Main1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-common-utils/target/classes/Main2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-common-utils/target/classes/Main4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/java/com/atgugui/gmall/item/GmallItemWebApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/java/com/atgugui/gmall/item/controller/ItemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/test/java/com/atgugui/gmall/item/GmallItemWebApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/src/main/java/com/atguigu/gmall/manager/GmallManagerServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/src/main/java/com/atguigu/gmall/manager/mapper/PmsBaseAttrInfoMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/src/main/java/com/atguigu/gmall/manager/mapper/PmsBaseAttrValueMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/src/main/java/com/atguigu/gmall/manager/mapper/PmsBaseCatalog1Mapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/src/main/java/com/atguigu/gmall/manager/mapper/PmsBaseCatalog2Mapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/src/main/java/com/atguigu/gmall/manager/mapper/PmsBaseCatalog3Mapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/src/main/java/com/atguigu/gmall/manager/mapper/PmsBaseSaleAttrMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/src/main/java/com/atguigu/gmall/manager/mapper/PmsProductImageMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/src/main/java/com/atguigu/gmall/manager/mapper/PmsProductInfoMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/src/main/java/com/atguigu/gmall/manager/mapper/PmsProductSaleAttrMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/src/main/java/com/atguigu/gmall/manager/mapper/PmsProductSaleAttrValueMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/src/main/java/com/atguigu/gmall/manager/mapper/PmsSkuInfoMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/src/main/java/com/atguigu/gmall/manager/service/impl/ManagerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-service/src/test/java/com/atguigu/gmall/manager/GmallManagerServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-web/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-web/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-web/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-web/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-web/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-web/src/main/java/com/atguigu/gmall/manager/GmallManagerWebApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-web/src/main/java/com/atguigu/gmall/manager/controller/ManagerBaseAttrController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-web/src/main/java/com/atguigu/gmall/manager/controller/ManagerCatalogController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-web/src/main/java/com/atguigu/gmall/manager/controller/ManagerPmsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-web/src/main/java/com/atguigu/gmall/manager/pmsUtils/PmsUpload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-web/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-web/src/main/resources/tracker.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manager-web/src/test/java/com/atguigu/gmall/manager/GmallManagerWebApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-parents/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-service-utils/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-service/src/main/java/com/atguigu/gmall/user/GmallUserApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-service/src/main/java/com/atguigu/gmall/user/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-service/src/main/java/com/atguigu/gmall/user/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-service/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-service/src/test/java/com/atguigu/gmall/user/controller/GmallUserServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-web/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-web/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-web/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-web/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-web/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-web/src/main/java/com/atguigu/gmall/user/GmallUserWebApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-web/src/main/java/com/atguigu/gmall/user/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-web/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user-web/src/test/java/com/atguigu/gmall/user/controller/DemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user/src/main/java/com/atguigu/gmall/user/GmallUserApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user/src/main/java/com/atguigu/gmall/user/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user/src/main/java/com/atguigu/gmall/user/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user/src/main/java/com/atguigu/gmall/user/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user/src/test/java/com/atguigu/gmall/user/controller/GmallUserApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user/target/classes/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-user/target/test-classes/com/atguigu/gmall/user/controller/GmallUserApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-web-utils/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -274,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/gmall-manager-web/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -418,7 +256,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/gmall-manager-web/src/main/java/com/atguigu/gmall/manager" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../git-test" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -589,16 +427,23 @@
       <workItem from="1582807744739" duration="11184000" />
       <workItem from="1583306887283" duration="5179000" />
       <workItem from="1583734104740" duration="833000" />
-      <workItem from="1583748968234" duration="2930000" />
+      <workItem from="1583748968234" duration="4370000" />
     </task>
+    <task id="LOCAL-00001" summary="gmall商城">
+      <created>1583755455946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583755455946</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="275982000" />
+    <option name="totallyTimeSpent" value="277422000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8490231" visible="true" weight="0.31042847" />
       <window_info id="Structure" order="1" sideWeight="0.15097691" side_tool="true" visible="true" weight="0.31042847" />
@@ -622,7 +467,7 @@
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4987874" weight="0.3445826" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.25399646" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -637,6 +482,36 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gmall商城" />
+    <option name="LAST_COMMIT_MESSAGE" value="gmall商城" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1108,7 +983,7 @@
     <entry file="file://$PROJECT_DIR$/gmall-manager-web/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
         </state>
       </provider>
     </entry>
