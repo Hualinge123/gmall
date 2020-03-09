@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Title</title>
+</head>
+<body>
+<p>${hello }</p>
+<p th:text="${hello}">我回来了</p>
+<p th:if="1==1">i will</p>
+<p>back</p>
+<a th:href="'JavaScript:f(\''+${hello}+'\');'">
+    点我
+</a>
+
+<script language="JavaScript" >
+    function f(hello) {
+        alert(hello);
+    }
+    
+</script>
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+server.port
+
+user-web 8080
+user-service 8070
+
+manager-web 8081
+manager-service 8071
+
+item-web  8082
+item-service 8072
+
